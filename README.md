@@ -40,7 +40,7 @@ A collection of all known integration packages for hCaptcha.
 
 ### XenForo
 
-[Plugin](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
+[Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
 [Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
 
 ### WordPress
