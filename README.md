@@ -35,6 +35,9 @@ A collection of all known integration packages for hCaptcha.
 
 ## Plugins
 
+### Drupal
+[Plugin](https://www.drupal.org/project/hcaptcha)
+
 ### XenForo
 
 [Plugin](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
