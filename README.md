@@ -40,13 +40,13 @@ A collection of all known integration packages for hCaptcha.
 
 ### XenForo
 
-[Plugin](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
+[Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
 [Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
 
 ### WordPress
 
-[Plugin](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
-[Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
+[Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
+[Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
 
 
 ## Chat protection bots
