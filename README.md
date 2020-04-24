@@ -48,6 +48,9 @@ A collection of all known integration packages for hCaptcha.
 [Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
 [Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
 
+### Joomla
+
+[Source](https://github.com/pe7er/hCaptcha)
 
 ## Chat protection bots
 
