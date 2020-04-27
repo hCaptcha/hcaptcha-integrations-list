@@ -68,3 +68,5 @@ A collection of all known integration packages for hCaptcha.
 ### .NET and ASP.NET Core
 [source](https://github.com/BenjaminAbt/hcaptcha)
 
+### RoundCube
+[source](https://github.com/NeverBehave/rc_hcaptcha)
