@@ -38,6 +38,10 @@ A collection of all known integration packages for hCaptcha.
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
 
+### SMF
+
+[Add-on](https://custom.simplemachines.org/mods/index.php?mod=4255)
+
 ### XenForo
 
 [Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
