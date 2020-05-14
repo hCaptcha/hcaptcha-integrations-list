@@ -17,6 +17,9 @@ A collection of all known integration packages for hCaptcha.
 #### Plain JS
 [Official docs](https://docs.hcaptcha.com/)
 
+#### Angular
+[hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
+
 
 ## Backend
 
