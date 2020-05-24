@@ -35,6 +35,8 @@ A collection of all known integration packages for hCaptcha.
 ### curl
 [Official docs](https://docs.hcaptcha.com/#server)
 
+### Elixir
+[Hex](https://hex.pm/packages/hcaptcha)
 
 ## Plugins
 
