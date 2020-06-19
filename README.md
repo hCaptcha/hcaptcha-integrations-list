@@ -71,6 +71,9 @@ A collection of all known integration packages for hCaptcha.
 
 [Android example with source blog post](https://medium.com/@hCaptcha/how-to-use-hcaptcha-with-android-apps-bb546c610bc4)
 
+[Flutter example with source blog post](https://medium.com/@hCaptcha/implementing-hcaptcha-in-your-flutter-app-13ea6ddca71b)
+
+
 
 ## More
 
