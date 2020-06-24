@@ -26,6 +26,9 @@ A collection of all known integration packages for hCaptcha.
 ### PHP 
 [Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
 
+### Python: Django + Crispy
+[Blog post with source](https://medium.com/python-in-plain-english/how-to-add-hcaptcha-to-your-django-crispy-form-and-be-more-privacy-conscious-273e7f39bbfd)
+
 ### node.js
 [npm Package](https://www.npmjs.com/package/hcaptcha)
 
