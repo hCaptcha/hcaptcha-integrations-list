@@ -43,7 +43,8 @@ A collection of all known integration packages for hCaptcha.
 
 ## Native Integrations: CMS platforms
 
-XenForo from 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
+### XenForo 
+Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
 
 
 ## Plugins
