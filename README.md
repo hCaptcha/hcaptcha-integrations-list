@@ -41,6 +41,11 @@ A collection of all known integration packages for hCaptcha.
 ### Elixir
 [Hex](https://hex.pm/packages/hcaptcha)
 
+## Native Integrations: CMS platforms
+
+XenForo from 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
+
+
 ## Plugins
 
 ### Drupal
