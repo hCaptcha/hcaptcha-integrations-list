@@ -73,6 +73,11 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 [Source](https://github.com/pe7er/hCaptcha)
 
+### Symfony
+
+[Source](https://github.com/Meteo-Concept/hcaptcha-bundle)
+
+
 ## Chat protection bots
 
 ### Telegram
