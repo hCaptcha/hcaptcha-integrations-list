@@ -14,11 +14,15 @@ A collection of all known integration packages for hCaptcha.
 #### Vue JS
 [hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
-#### Plain JS
-[Official docs](https://docs.hcaptcha.com/)
-
-#### Angular
+#### Angular JS
 [hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
+
+#### Vanilla JS (use with Angular, Vue, etc)
+[Source](https://github.com/DSergiu/vanilla-hcaptcha)
+[NPM](https://www.npmjs.com/package/vanilla-hcaptcha)
+
+#### Plain JS reference
+[Official docs](https://docs.hcaptcha.com/)
 
 
 ## Backend
