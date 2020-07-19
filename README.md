@@ -3,6 +3,43 @@ A collection of all known integration packages for hCaptcha.
 
 **This is a community-maintained list.** Added or found another one? Open a PR to submit it!
 
+## Table of Contents
+
+<!-- toc -->
+
+- [Frontend](#frontend)
+  * [JavaScript](#javascript)
+    + [ReactJS](#reactjs)
+    + [Vue JS](#vue-js)
+    + [Angular JS](#angular-js)
+    + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
+    + [Plain JS reference](#plain-js-reference)
+- [Backend](#backend)
+  * [PHP](#php)
+- [Laravel](#laravel)
+  * [Python: Django + Crispy](#python-django--crispy)
+  * [node.js](#nodejs)
+  * [Go middleware](#go-middleware)
+  * [curl](#curl)
+  * [Elixir](#elixir)
+- [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
+  * [XenForo](#xenforo)
+  * [MyBB](#mybb)
+- [Plugins](#plugins)
+  * [Drupal](#drupal)
+  * [SMF](#smf)
+  * [XenForo](#xenforo-1)
+  * [WordPress](#wordpress)
+  * [Joomla](#joomla)
+  * [Symfony](#symfony)
+- [Chat protection bots](#chat-protection-bots)
+  * [Telegram](#telegram)
+- [Mobile apps](#mobile-apps)
+- [More](#more)
+  * [.NET and ASP.NET Core](#net-and-aspnet-core)
+  * [RoundCube](#roundcube)
+
+<!-- tocstop -->
 
 ## Frontend
 
