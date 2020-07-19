@@ -16,7 +16,7 @@ A collection of all known integration packages for hCaptcha.
     + [Plain JS reference](#plain-js-reference)
 - [Backend](#backend)
   * [PHP](#php)
-- [Laravel](#laravel)
+  * [Laravel](#laravel)
   * [Python: Django + Crispy](#python-django--crispy)
   * [node.js](#nodejs)
   * [Go middleware](#go-middleware)
@@ -64,10 +64,10 @@ A collection of all known integration packages for hCaptcha.
 
 ## Backend
 
-### PHP 
+### Plain PHP 
 [Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
 
-## Laravel
+### Laravel
 [Full example blog with source](https://serversideup.net/laravel-hcaptcha-custom-validation-rule/)
 
 ### Python: Django + Crispy
