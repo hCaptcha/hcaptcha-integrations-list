@@ -36,6 +36,8 @@ A collection of all known integration packages for hCaptcha.
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
+  * [Android](#android)
+  * [Flutter](#flutter)
 - [More](#more)
   * [.NET and ASP.NET Core](#net-and-aspnet-core)
   * [RoundCube](#roundcube)
@@ -135,10 +137,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 ## Mobile apps
 
+### Android
 [Android example with source blog post](https://medium.com/@hCaptcha/how-to-use-hcaptcha-with-android-apps-bb546c610bc4)
 
+### Flutter
 [Flutter example with source blog post](https://medium.com/@hCaptcha/implementing-hcaptcha-in-your-flutter-app-13ea6ddca71b)
-
 
 
 ## More
