@@ -15,7 +15,7 @@ A collection of all known integration packages for hCaptcha.
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Plain JS reference](#plain-js-reference)
 - [Backend](#backend)
-  * [PHP](#php)
+  * [Plain PHP](#plain-php)
   * [Laravel](#laravel)
   * [Python: Django + Crispy](#python-django--crispy)
   * [node.js](#nodejs)
@@ -31,6 +31,7 @@ A collection of all known integration packages for hCaptcha.
   * [XenForo](#xenforo-1)
   * [WordPress](#wordpress)
   * [Joomla](#joomla)
+    + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Symfony](#symfony)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
@@ -115,6 +116,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 ### Joomla
 
 [Source](https://github.com/pe7er/hCaptcha)
+[Extension](https://extensions.joomla.org/extension/hcaptcha/)
+
+#### Joomla RSForm!Pro Plugin
+
+[Extension](https://www.rsjoomla.com/support/documentation/rsform-pro/plugins-and-modules/plugin-hcaptcha-spam-protection-.html)
 
 ### Symfony
 
