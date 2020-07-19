@@ -82,7 +82,7 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 ### Symfony
 
 [Source](https://github.com/Meteo-Concept/hcaptcha-bundle)
-
+[Symfony/flex recipe](https://github.com/symfony/recipes-contrib/pull/979)
 
 ## Chat protection bots
 
