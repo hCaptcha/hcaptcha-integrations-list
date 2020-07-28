@@ -23,6 +23,7 @@ A collection of all known integration packages for hCaptcha.
   * [Go middleware](#go-middleware)
   * [curl](#curl)
   * [Elixir](#elixir)
+  * [Java](#java)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [XenForo](#xenforo)
   * [MyBB](#mybb)
@@ -88,6 +89,9 @@ A collection of all known integration packages for hCaptcha.
 
 ### Elixir
 [Hex](https://hex.pm/packages/hcaptcha)
+
+### Java
+[Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
 
 ## Native Integrations: CMS platforms
 
