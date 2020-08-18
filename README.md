@@ -75,6 +75,10 @@ A collection of all known integration packages for hCaptcha.
 ### Laravel
 [Full example blog with source](https://serversideup.net/laravel-hcaptcha-custom-validation-rule/)
 
+[Package #1 source](https://github.com/tojorodialson/hc-laravel)
+[Package #2 source](https://github.com/Scyllaly/hcaptcha)
+[Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
+
 ### Python: Django + Crispy
 [Blog post with source](https://medium.com/python-in-plain-english/how-to-add-hcaptcha-to-your-django-crispy-form-and-be-more-privacy-conscious-273e7f39bbfd)
 
