@@ -28,6 +28,7 @@ A collection of all known integration packages for hCaptcha.
   * [XenForo](#xenforo)
   * [MyBB](#mybb)
 - [Plugins](#plugins)
+  * [Magento2](#magento)
   * [Drupal](#drupal)
   * [SMF](#smf)
   * [XenForo](#xenforo-1)
@@ -106,6 +107,10 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/spam/#captcha-images-for-registration--posting) & [Release Notes](https://mybb.com/versions/1.8.23/)
 
 ## Plugins
+
+### Magento
+
+[Plugin](https://magecomp.com/magento-2-hcaptcha.html)
 
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
