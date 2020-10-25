@@ -28,7 +28,7 @@ A collection of all known integration packages for hCaptcha.
   * [XenForo](#xenforo)
   * [MyBB](#mybb)
 - [Plugins](#plugins)
-  * [Magento2](#magento)
+  * [Magento](#magento)
   * [Drupal](#drupal)
   * [SMF](#smf)
   * [XenForo](#xenforo-1)
@@ -36,6 +36,7 @@ A collection of all known integration packages for hCaptcha.
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Symfony](#symfony)
+  * [Typo3](#typo3)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
@@ -142,6 +143,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 [Source](https://github.com/Meteo-Concept/hcaptcha-bundle)
 [Symfony/flex recipe](https://github.com/symfony/recipes-contrib/pull/979)
+
+### Typo3
+
+[Blog post](https://susi.dev/hcaptcha)
+[Typo3 extension](https://extensions.typo3.org/extension/hcaptcha/)
 
 ## Chat protection bots
 
