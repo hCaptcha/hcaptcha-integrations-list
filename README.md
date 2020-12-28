@@ -33,6 +33,7 @@ A collection of all known integration packages for hCaptcha.
   * [SMF](#smf)
   * [XenForo](#xenforo-1)
   * [WordPress](#wordpress)
+  * [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Symfony](#symfony)
@@ -129,6 +130,9 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 [Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
 [Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
+
+### WordPress WPForms Plugin
+[Native integration: instructions to enable](https://wpforms.com/docs/how-to-set-up-and-use-hcaptcha-in-wpforms/)
 
 ### Joomla
 
