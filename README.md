@@ -32,6 +32,7 @@ A collection of all known integration packages for hCaptcha.
   * [Drupal](#drupal)
   * [SMF](#smf)
   * [XenForo](#xenforo-1)
+  * [Vanilla Forums](#vanilla-forums)
   * [WordPress](#wordpress)
   * [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
   * [Joomla](#joomla)
@@ -125,6 +126,10 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 [Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
 [Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
+
+### Vanilla Forums
+[Plugin](https://open.vanillaforums.com/addon/hcaptcha-plugin)
+[Source](https://github.com/unkorneglosk/hcaptcha)
 
 ### WordPress
 
