@@ -32,6 +32,7 @@ A collection of all known integration packages for hCaptcha.
   * [Drupal](#drupal)
   * [SMF](#smf)
   * [XenForo](#xenforo-1)
+  * [Vanilla Forums](#vanilla-forums)
   * [WordPress](#wordpress)
   * [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
   * [Joomla](#joomla)
