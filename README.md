@@ -39,6 +39,8 @@ A collection of all known integration packages for hCaptcha.
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Symfony](#symfony)
   * [Typo3](#typo3)
+  * [Umbraco](#umbraco)
+    + [UmbracoForms.uCaptcha](#umbracoforms.ucaptcha)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
@@ -157,6 +159,16 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 [Blog post](https://susi.dev/hcaptcha)
 [Typo3 extension](https://extensions.typo3.org/extension/hcaptcha/)
+
+### Umbraco
+
+#### UmbracoForms.uCaptcha
+
+[Source](https://github.com/AaronSadlerUK/UmbracoForms.uCaptcha)
+
+[Plugin](https://our.umbraco.com/packages/website-utilities/umbracoformsucaptcha/)
+
+[NuGet](https://www.nuget.org/packages/AaronSadler.uCaptcha/)
 
 ## Chat protection bots
 
