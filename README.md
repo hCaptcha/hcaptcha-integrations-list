@@ -24,6 +24,7 @@ A collection of all known integration packages for hCaptcha.
   * [curl](#curl)
   * [Elixir](#elixir)
   * [Java](#java)
+  * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [XenForo](#xenforo)
   * [MyBB](#mybb)
@@ -40,7 +41,7 @@ A collection of all known integration packages for hCaptcha.
   * [Symfony](#symfony)
   * [Typo3](#typo3)
   * [Umbraco](#umbraco)
-    + [UmbracoForms.uCaptcha](#umbracoforms.ucaptcha)
+    + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
@@ -102,6 +103,9 @@ A collection of all known integration packages for hCaptcha.
 
 ### Java
 [Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
+
+### Cloudflare Worker siteverify
+[Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
 
 ## Native Integrations: CMS platforms
 
