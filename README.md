@@ -13,6 +13,7 @@ A collection of all known integration packages for hCaptcha.
     + [ReactJS](#reactjs)
     + [Vue JS](#vue-js)
     + [Angular JS](#angular-js)
+    + [Ember.js](#ember.js)
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Plain JS reference](#plain-js-reference)
 - [Backend](#backend)
@@ -65,6 +66,9 @@ A collection of all known integration packages for hCaptcha.
 
 #### Angular JS
 [hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
+
+#### Ember.js
+[hCaptcha Component Library for Ember.js](https://github.com/sinankeskin/ember-h-captcha)
 
 #### Vanilla JS (use with Angular, Vue, etc)
 [Source](https://github.com/DSergiu/vanilla-hcaptcha)
