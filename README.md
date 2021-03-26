@@ -13,7 +13,7 @@ A collection of all known integration packages for hCaptcha.
     + [ReactJS](#reactjs)
     + [Vue JS](#vue-js)
     + [Angular JS](#angular-js)
-    + [Ember.js](#ember.js)
+    + [Ember.js](#emberjs)
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Plain JS reference](#plain-js-reference)
 - [Backend](#backend)
