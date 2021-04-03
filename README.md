@@ -46,6 +46,7 @@ A collection of all known integration packages for hCaptcha.
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
+    + [Honk](#honk)
 - [Mobile apps](#mobile-apps)
   * [Android](#android)
   * [Flutter](#flutter)
@@ -188,6 +189,8 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 ### Telegram
 [Blog post + code](https://medium.com/@hCaptcha/fight-spam-on-your-telegram-group-with-hcaptcha-2bab3efc34b3)
 
+#### Honk
+[source](https://github.com/KeithPatrick5/hcaptcha-honk-bot)
 
 ## Mobile apps
 
