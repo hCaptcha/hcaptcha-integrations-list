@@ -25,6 +25,7 @@ A collection of all known integration packages for hCaptcha.
   * [curl](#curl)
   * [Elixir](#elixir)
   * [Java](#java)
+  * [Rust](#rust)
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [XenForo](#xenforo)
@@ -51,6 +52,7 @@ A collection of all known integration packages for hCaptcha.
 - [More](#more)
   * [.NET and ASP.NET Core](#net-and-aspnet-core)
   * [RoundCube](#roundcube)
+  * [Salesforce VFP (Aura)](#salesforce-vfp-aura)
 
 <!-- tocstop -->
 
@@ -107,6 +109,9 @@ A collection of all known integration packages for hCaptcha.
 
 ### Java
 [Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
+
+### Rust
+[Source](https://github.com/jerusdp/hcaptcha-rs)
 
 ### Cloudflare Worker siteverify
 [Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
@@ -200,3 +205,7 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 ### RoundCube
 [source](https://github.com/NeverBehave/rc_hcaptcha)
+
+### Salesforce VFP (Aura)
+[source](https://github.com/chrisludovice/SFDX_hCaptcha)
+
