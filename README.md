@@ -117,6 +117,10 @@ A collection of all known integration packages for hCaptcha.
 ### Cloudflare Worker siteverify
 [Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
 
+### Python: Flask
+[Source](https://github.com/KnugiHK/flask-hcaptcha)  
+[PyPI](https://pypi.org/project/Flask-hCaptcha/)
+
 ## Native Integrations: CMS platforms
 
 ### XenForo 
