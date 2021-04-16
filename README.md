@@ -27,6 +27,7 @@ A collection of all known integration packages for hCaptcha.
   * [Java](#java)
   * [Rust](#rust)
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
+  * [Python: Flask](#python-flask)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [XenForo](#xenforo)
   * [MyBB](#mybb)
