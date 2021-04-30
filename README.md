@@ -51,6 +51,8 @@ A collection of all known integration packages for hCaptcha.
 - [Mobile apps](#mobile-apps)
   * [Android](#android)
   * [Flutter](#flutter)
+- [Access Management Platforms](#access-management-platforms)
+  * [ForgeRock](#forgerock)
 - [More](#more)
   * [.NET and ASP.NET Core](#net-and-aspnet-core)
   * [RoundCube](#roundcube)
@@ -205,6 +207,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 ### Flutter
 [Flutter example with source blog post](https://medium.com/@hCaptcha/implementing-hcaptcha-in-your-flutter-app-13ea6ddca71b)
 
+
+## Access Management Platforms
+
+### ForgeRock
+[Access Management: CAPTCHA Node config instructions](https://backstage.forgerock.com/docs/am/7/authentication-guide/auth-node-configuration-hints.html#auth-node-captcha)
 
 ## More
 
