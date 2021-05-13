@@ -45,6 +45,7 @@ A collection of all known integration packages for hCaptcha.
   * [Typo3](#typo3)
   * [Umbraco](#umbraco)
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
+  * [MediaWiki](#mediawiki)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
     + [Honk](#honk)
@@ -190,6 +191,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 [Plugin](https://our.umbraco.com/packages/website-utilities/umbracoformsucaptcha/)
 
 [NuGet](https://www.nuget.org/packages/AaronSadler.uCaptcha/)
+
+### MediaWiki
+
+[Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
+[Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
 
 ## Chat protection bots
 
