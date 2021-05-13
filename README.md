@@ -10,45 +10,45 @@ A collection of all known integration packages for hCaptcha.
 
 - [Frontend](#frontend)
   * [JavaScript](#javascript)
-    + [ReactJS](#reactjs)
-    + [Vue JS](#vue-js)
     + [Angular JS](#angular-js)
     + [Ember.js](#emberjs)
-    + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Plain JS reference](#plain-js-reference)
+    + [ReactJS](#reactjs)
+    + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
+    + [Vue JS](#vue-js)
 - [Backend](#backend)
-  * [Plain PHP](#plain-php)
-  * [Laravel](#laravel)
-  * [Python: Django + Crispy](#python-django--crispy)
-  * [node.js](#nodejs)
-  * [Go middleware](#go-middleware)
+  * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
   * [curl](#curl)
   * [Elixir](#elixir)
+  * [Go middleware](#go-middleware)
   * [Java](#java)
-  * [Rust](#rust)
-  * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
+  * [Laravel](#laravel)
+  * [node.js](#nodejs)
+  * [Plain PHP](#plain-php)
+  * [Python: Django + Crispy](#python-django--crispy)
   * [Python: Flask](#python-flask)
+  * [Rust](#rust)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
-  * [XenForo](#xenforo)
   * [MyBB](#mybb)
+  * [XenForo](#xenforo)
 - [Plugins](#plugins)
-  * [Magento](#magento)
   * [Drupal](#drupal)
-  * [SMF](#smf)
-  * [XenForo](#xenforo-1)
-  * [Vanilla Forums](#vanilla-forums)
-  * [WordPress](#wordpress)
-  * [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
+  * [Magento](#magento)
+  * [MediaWiki](#mediawiki)
+  * [SMF](#smf)
   * [Symfony](#symfony)
   * [Typo3](#typo3)
   * [Umbraco](#umbraco)
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
-  * [MediaWiki](#mediawiki)
+  * [Vanilla Forums](#vanilla-forums)
+  * [WordPress](#wordpress)
+    + [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
+  * [XenForo](#xenforo-1)
 - [Chat protection bots](#chat-protection-bots)
-  * [Telegram](#telegram)
     + [Honk](#honk)
+  * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
   * [Android](#android)
   * [Flutter](#flutter)
@@ -65,30 +65,41 @@ A collection of all known integration packages for hCaptcha.
 
 ### JavaScript
 
-#### ReactJS
-[hCaptcha Component Library for ReactJS](https://github.com/hCaptcha/react-hcaptcha)
-
-#### Vue JS
-[hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
-
 #### Angular JS
 [hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
 
 #### Ember.js
 [hCaptcha Component Library for Ember.js](https://github.com/sinankeskin/ember-h-captcha)
 
+#### Plain JS reference
+[Official docs](https://docs.hcaptcha.com/)
+
+#### ReactJS
+[hCaptcha Component Library for ReactJS](https://github.com/hCaptcha/react-hcaptcha)
+
 #### Vanilla JS (use with Angular, Vue, etc)
 [Source](https://github.com/DSergiu/vanilla-hcaptcha)
 [NPM](https://www.npmjs.com/package/vanilla-hcaptcha)
 
-#### Plain JS reference
-[Official docs](https://docs.hcaptcha.com/)
-
+#### Vue JS
+[hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
 ## Backend
 
-### Plain PHP 
-[Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
+### Cloudflare Worker siteverify
+[Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
+
+### curl
+[Official docs](https://docs.hcaptcha.com/#server)
+
+### Elixir
+[Hex](https://hex.pm/packages/hcaptcha)
+
+### Go middleware
+[Source](https://github.com/kataras/hcaptcha)
+
+### Java
+[Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
 
 ### Laravel
 [Full example blog with source](https://serversideup.net/laravel-hcaptcha-custom-validation-rule/)
@@ -97,71 +108,35 @@ A collection of all known integration packages for hCaptcha.
 [Package #2 source](https://github.com/Scyllaly/hcaptcha)
 [Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
 
-### Python: Django + Crispy
-[Blog post with source](https://medium.com/python-in-plain-english/how-to-add-hcaptcha-to-your-django-crispy-form-and-be-more-privacy-conscious-273e7f39bbfd)
-
 ### node.js
 [npm Package](https://www.npmjs.com/package/hcaptcha)
 
-### Go middleware
-[Source](https://github.com/kataras/hcaptcha)
+### Plain PHP 
+[Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
 
-### curl
-[Official docs](https://docs.hcaptcha.com/#server)
-
-### Elixir
-[Hex](https://hex.pm/packages/hcaptcha)
-
-### Java
-[Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
-
-### Rust
-[Source](https://github.com/jerusdp/hcaptcha-rs)
-
-### Cloudflare Worker siteverify
-[Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
+### Python: Django + Crispy
+[Blog post with source](https://medium.com/python-in-plain-english/how-to-add-hcaptcha-to-your-django-crispy-form-and-be-more-privacy-conscious-273e7f39bbfd)
 
 ### Python: Flask
 [Source](https://github.com/KnugiHK/flask-hcaptcha)  
 [PyPI](https://pypi.org/project/Flask-hCaptcha/)
 
-## Native Integrations: CMS platforms
+### Rust
+[Source](https://github.com/jerusdp/hcaptcha-rs)
 
-### XenForo 
-Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
+
+## Native Integrations: CMS platforms
 
 ### MyBB
 Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/spam/#captcha-images-for-registration--posting) & [Release Notes](https://mybb.com/versions/1.8.23/)
 
+### XenForo 
+Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
+
 ## Plugins
-
-### Magento
-
-[Plugin](https://magecomp.com/magento-2-hcaptcha.html)
 
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
-
-### SMF
-
-[Add-on](https://custom.simplemachines.org/mods/index.php?mod=4255)
-
-### XenForo
-
-[Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
-[Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
-
-### Vanilla Forums
-[Plugin](https://open.vanillaforums.com/addon/hcaptcha-plugin)
-[Source](https://github.com/unkorneglosk/hcaptcha)
-
-### WordPress
-
-[Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
-[Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
-
-### WordPress WPForms Plugin
-[Native integration: instructions to enable](https://wpforms.com/docs/how-to-set-up-and-use-hcaptcha-in-wpforms/)
 
 ### Joomla
 
@@ -171,6 +146,19 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 #### Joomla RSForm!Pro Plugin
 
 [Extension](https://www.rsjoomla.com/support/documentation/rsform-pro/plugins-and-modules/plugin-hcaptcha-spam-protection-.html)
+
+### Magento
+
+[Plugin](https://magecomp.com/magento-2-hcaptcha.html)
+
+### MediaWiki
+
+[Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
+[Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
+
+### SMF
+
+[Add-on](https://custom.simplemachines.org/mods/index.php?mod=4255)
 
 ### Symfony
 
@@ -187,23 +175,33 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 #### UmbracoForms.uCaptcha
 
 [Source](https://github.com/AaronSadlerUK/UmbracoForms.uCaptcha)
-
 [Plugin](https://our.umbraco.com/packages/website-utilities/umbracoformsucaptcha/)
-
 [NuGet](https://www.nuget.org/packages/AaronSadler.uCaptcha/)
 
-### MediaWiki
+### Vanilla Forums
+[Plugin](https://open.vanillaforums.com/addon/hcaptcha-plugin)
+[Source](https://github.com/unkorneglosk/hcaptcha)
 
-[Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
-[Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
+### WordPress
+
+[Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
+[Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
+
+#### WordPress WPForms Plugin
+[Native integration: instructions to enable](https://wpforms.com/docs/how-to-set-up-and-use-hcaptcha-in-wpforms/)
+
+### XenForo
+
+[Add-on](https://xenforo.com/community/resources/hcaptcha-integration.7696/)
+[Source](https://github.com/ticktackk/hCaptchaIntegrationForXF2)
 
 ## Chat protection bots
 
-### Telegram
-[Blog post + code](https://medium.com/@hCaptcha/fight-spam-on-your-telegram-group-with-hcaptcha-2bab3efc34b3)
-
 #### Honk
 [source](https://github.com/KeithPatrick5/hcaptcha-honk-bot)
+
+### Telegram
+[Blog post + code](https://medium.com/@hCaptcha/fight-spam-on-your-telegram-group-with-hcaptcha-2bab3efc34b3)
 
 ## Mobile apps
 
@@ -212,7 +210,6 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 ### Flutter
 [Flutter example with source blog post](https://medium.com/@hCaptcha/implementing-hcaptcha-in-your-flutter-app-13ea6ddca71b)
-
 
 ## Access Management Platforms
 
@@ -229,4 +226,3 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 ### Salesforce VFP (Aura)
 [source](https://github.com/chrisludovice/SFDX_hCaptcha)
-
