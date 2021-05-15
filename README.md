@@ -1,8 +1,10 @@
 # hCaptcha integrations list
 A collection of all known integration packages for hCaptcha. 
 
-**This is a community-maintained list.** Added or found another one? Open a PR to submit it! 
-(Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-create the TOC.)
+**This is a community-maintained list.** Added or found another one? Open a PR to submit it!
+
+Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-create the TOC.
+(Please maintain alpha-sort order.)
 
 ## Table of Contents
 
