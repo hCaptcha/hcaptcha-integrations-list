@@ -46,6 +46,7 @@ A collection of all known integration packages for hCaptcha.
   * [Umbraco](#umbraco)
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
   * [MediaWiki](#mediawiki)
+  * [Craft CMS](#craftcms)
 - [Chat protection bots](#chat-protection-bots)
   * [Telegram](#telegram)
     + [Honk](#honk)
@@ -196,6 +197,11 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 [Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
 [Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
+
+### CraftCMS
+
+[Plugin](https://plugins.craftcms.com/craft-hcaptcha)
+[Source](https://github.com/c10d-dev/craft-hcaptcha)
 
 ## Chat protection bots
 
