@@ -32,6 +32,7 @@ A collection of all known integration packages for hCaptcha.
   * [MyBB](#mybb)
   * [XenForo](#xenforo)
 - [Plugins](#plugins)
+  * [Craft CMS](#craftcms)
   * [Drupal](#drupal)
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
@@ -135,6 +136,11 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 ## Plugins
 
+### CraftCMS
+
+[Plugin](https://plugins.craftcms.com/craft-hcaptcha)
+[Source](https://github.com/c10d-dev/craft-hcaptcha)
+
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
 
@@ -183,7 +189,6 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 [Source](https://github.com/unkorneglosk/hcaptcha)
 
 ### WordPress
-
 [Plugin](https://wordpress.org/plugins/hcaptcha-for-forms-and-more/)
 [Source](https://github.com/hCaptcha/hcaptcha-wordpress-plugin)
 
