@@ -34,12 +34,13 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [MyBB](#mybb)
   * [XenForo](#xenforo)
 - [Plugins](#plugins)
-  * [Craft CMS](#craftcms)
+  * [CraftCMS](#craftcms)
   * [Drupal](#drupal)
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Magento](#magento)
   * [MediaWiki](#mediawiki)
+  * [Plone](#plone)
   * [SMF](#smf)
   * [Symfony](#symfony)
   * [Typo3](#typo3)
@@ -163,6 +164,11 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 [Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
 [Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
+
+### Plone
+
+[Plugin](https://github.com/plone/plone.formwidget.hcaptcha)
+
 
 ### SMF
 
