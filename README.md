@@ -36,6 +36,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 - [Plugins](#plugins)
   * [CraftCMS](#craftcms)
   * [Drupal](#drupal)
+  * [Invision Community](#invision)
   * [Joomla](#joomla)
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Magento](#magento)
@@ -146,6 +147,9 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
+
+### Invision Community
+[Plugin](https://invisioncommunity.com/files/file/9657-hcaptcha-integration/)
 
 ### Joomla
 
