@@ -116,7 +116,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 [Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
 
 ### Next.js API Routes
-[npm Package](https://www.npmjs.com/package/next-hcaptcha)
+[npm Package](https://www.npmjs.com/package/next-hcaptcha)  
 [GitHub Repository](https://github.com/neg4n/next-hcaptcha)
 
 ### node.js
