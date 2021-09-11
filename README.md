@@ -25,6 +25,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Go middleware](#go-middleware)
   * [Java](#java)
   * [Laravel](#laravel)
+  * [Next.js API Routes](#nextjs-api-routes)
   * [node.js](#nodejs)
   * [Plain PHP](#plain-php)
   * [Python: Django + Crispy](#python-django--crispy)
@@ -113,6 +114,10 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 [Package #1 source](https://github.com/tojorodialson/hc-laravel)
 [Package #2 source](https://github.com/Scyllaly/hcaptcha)
 [Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
+
+### Next.js API Routes
+[npm Package](https://www.npmjs.com/package/next-hcaptcha)
+[GitHub Repository](https://github.com/neg4n/next-hcaptcha)
 
 ### node.js
 [npm Package](https://www.npmjs.com/package/hcaptcha)
