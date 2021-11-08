@@ -19,6 +19,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Vue JS](#vue-js)
 - [Backend](#backend)
+  * [AdonisJS middleware](#adonisjs-middleware) 
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
   * [curl](#curl)
   * [Elixir](#elixir)
@@ -92,6 +93,9 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 [hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
 ## Backend
+
+### AdonisJS middleware
+[Code](https://github.com/NerdyLuffy/adonisjs-hcaptcha)
 
 ### Cloudflare Worker siteverify
 [Code](https://github.com/glenstack/glenstack/tree/master/packages/cf-workers-hcaptcha)
