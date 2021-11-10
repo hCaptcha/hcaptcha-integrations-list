@@ -19,7 +19,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Vue JS](#vue-js)
 - [Backend](#backend)
-  * [AdonisJS middleware](#adonisjs-middleware) 
+  * [AdonisJS middleware](#adonisjs-middleware)
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
   * [curl](#curl)
   * [Elixir](#elixir)
@@ -31,6 +31,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Plain PHP](#plain-php)
   * [Python: Django + Crispy](#python-django--crispy)
   * [Python: Flask](#python-flask)
+  * [Ruby/Rails](#rubyrails)
   * [Rust](#rust)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [MyBB](#mybb)
@@ -135,6 +136,9 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 ### Python: Flask
 [Source](https://github.com/KnugiHK/flask-hcaptcha)  
 [PyPI](https://pypi.org/project/Flask-hCaptcha/)
+
+### Ruby/Rails
+[Source](https://github.com/CapSens/hcaptcha)
 
 ### Rust
 [Source](https://github.com/jerusdp/hcaptcha-rs)
