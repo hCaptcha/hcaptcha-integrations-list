@@ -23,6 +23,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
   * [curl](#curl)
   * [Elixir](#elixir)
+  * [Firebase App Check (hCaptcha as Custom Provider)](#firebase-app-check-hcaptcha-as-custom-provider)
   * [Go middleware](#go-middleware)
   * [Java](#java)
   * [Laravel](#laravel)
@@ -106,6 +107,9 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 ### Elixir
 [Hex](https://hex.pm/packages/hcaptcha)
+
+### Firebase App Check (hCaptcha as Custom Provider)
+[Full example](https://github.com/firebase/firebase-js-sdk/discussions/5095)
 
 ### Go middleware
 [Source](https://github.com/kataras/hcaptcha)
