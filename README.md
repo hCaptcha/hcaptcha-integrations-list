@@ -38,7 +38,8 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [MyBB](#mybb)
   * [XenForo](#xenforo)
 - [Plugins](#plugins)
-  * [CraftCMS](#craftcms)
+  * [Craft CMS](#craft-cms)
+    + [Freeform Plugin](#freeform-plugin)
   * [Drupal](#drupal)
   * [Invision Community](#invision-community)
   * [Joomla](#joomla)
@@ -158,10 +159,15 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 ## Plugins
 
-### CraftCMS
+### Craft CMS
 
 [Plugin](https://plugins.craftcms.com/craft-hcaptcha)
 [Source](https://github.com/c10d-dev/craft-hcaptcha)
+
+#### Freeform Plugin
+
+[Plugin](https://plugins.craftcms.com/freeform)
+[Source](https://github.com/solspace/craft3-freeform)
 
 ### Drupal
 [Plugin](https://www.drupal.org/project/hcaptcha)
