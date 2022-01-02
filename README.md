@@ -46,6 +46,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Joomla RSForm!Pro Plugin](#joomla-rsformpro-plugin)
   * [Magento](#magento)
   * [MediaWiki](#mediawiki)
+  * [OXID eShop](#oxid-eshop)
   * [Plone](#plone)
     + [Volto Form Block](#volto-form-block)
   * [SMF](#smf)
@@ -192,6 +193,11 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 [Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
 [Source](https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit)
+
+### OXID eShop
+
+[Plugin](https://packagist.org/packages/tremendo/oxid-hcaptcha)
+[Source](https://github.com/KalteSterne/oxid-hcaptcha)
 
 ### Plone
 
