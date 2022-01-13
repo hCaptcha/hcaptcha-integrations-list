@@ -1,5 +1,5 @@
 # hCaptcha integrations list
-A collection of all known integration packages for hCaptcha. 
+A collection of all known integration packages for hCaptcha.
 
 **This is a community-maintained list.** Added or found another one? Open a PR to submit it!
 
@@ -49,6 +49,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [OXID eShop](#oxid-eshop)
   * [Plone](#plone)
     + [Volto Form Block](#volto-form-block)
+  * [phpBB](#phpbb)
   * [SMF](#smf)
   * [Symfony](#symfony)
   * [Typo3](#typo3)
@@ -133,7 +134,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 ### node.js
 [npm Package](https://www.npmjs.com/package/hcaptcha)
 
-### Plain PHP 
+### Plain PHP
 [Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
 
 ### Python: Django + Crispy
@@ -155,7 +156,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 ### MyBB
 Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/spam/#captcha-images-for-registration--posting) & [Release Notes](https://mybb.com/versions/1.8.23/)
 
-### XenForo 
+### XenForo
 Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
 
 ## Plugins
@@ -206,6 +207,9 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 #### Volto Form Block
 
 [Volto form add-on](https://github.com/collective/volto-form-block)
+
+### phpBB
+[Extension][https://www.phpbb.com/customise/db/extension/hcaptcha/]
 
 ### SMF
 
