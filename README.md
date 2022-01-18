@@ -47,9 +47,9 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Magento](#magento)
   * [MediaWiki](#mediawiki)
   * [OXID eShop](#oxid-eshop)
+  * [phpBB](#phpbb)
   * [Plone](#plone)
     + [Volto Form Block](#volto-form-block)
-  * [phpBB](#phpbb)
   * [SMF](#smf)
   * [Symfony](#symfony)
   * [Typo3](#typo3)
@@ -200,6 +200,9 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 [Plugin](https://packagist.org/packages/tremendo/oxid-hcaptcha)
 [Source](https://github.com/KalteSterne/oxid-hcaptcha)
 
+### phpBB
+[Extension](https://www.phpbb.com/customise/db/extension/hcaptcha/)
+
 ### Plone
 
 [Plugin](https://github.com/plone/plone.formwidget.hcaptcha)
@@ -207,9 +210,6 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 #### Volto Form Block
 
 [Volto form add-on](https://github.com/collective/volto-form-block)
-
-### phpBB
-[Extension][https://www.phpbb.com/customise/db/extension/hcaptcha/]
 
 ### SMF
 
