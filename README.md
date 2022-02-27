@@ -52,6 +52,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Volto Form Block](#volto-form-block)
   * [SMF](#smf)
   * [Symfony](#symfony)
+  * [Silverstripe](#silverstripe)
   * [Typo3](#typo3)
   * [Umbraco](#umbraco)
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
@@ -214,6 +215,12 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 ### SMF
 
 [Add-on](https://custom.simplemachines.org/mods/index.php?mod=4255)
+
+
+### Silverstripe
+
+[Plugin](https://packagist.org/packages/oposs/silverstripe-hcaptcha)
+[Source](https://github.com/oposs/silverstripe-hcaptcha)
 
 ### Symfony
 
