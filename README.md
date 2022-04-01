@@ -34,6 +34,10 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Python: Flask](#python-flask)
   * [Ruby/Rails](#rubyrails)
   * [Rust](#rust)
+- [Serverless Backend](#serverless-backend)
+  * [Cloudflare: Rust](#cloudflare-rust)
+  * [Cloudflare: JS](#cloudflare-js)
+  * [Fastly: Rust](#fastly-rust)
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [MyBB](#mybb)
   * [XenForo](#xenforo)
@@ -51,8 +55,8 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Plone](#plone)
     + [Volto Form Block](#volto-form-block)
   * [SMF](#smf)
-  * [Symfony](#symfony)
   * [Silverstripe](#silverstripe)
+  * [Symfony](#symfony)
   * [Typo3](#typo3)
   * [Umbraco](#umbraco)
     + [UmbracoForms.uCaptcha](#umbracoformsucaptcha)
@@ -64,7 +68,9 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Honk](#honk)
   * [Telegram](#telegram)
 - [Mobile apps](#mobile-apps)
+  * [iOS](#ios)
   * [Android](#android)
+  * [React Native](#react-native)
   * [Flutter](#flutter)
 - [Access Management Platforms](#access-management-platforms)
   * [ForgeRock](#forgerock)
@@ -150,6 +156,20 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 ### Rust
 [Source](https://github.com/jerusdp/hcaptcha-rs)
+
+## Serverless Backend
+
+### Cloudflare: Rust
+
+[hCaptcha verify endpoint using Cloudflare Workers written in Rust](https://github.com/rodneylab/hcaptcha-serverless-rust-worker)
+
+### Cloudflare: JS
+
+[NPM package: Verify a hCaptcha token from within a Cloudflare Worker.](https://github.com/glenstack/glenstack)
+
+### Fastly: Rust
+
+[hCaptcha Serverless on Fastly Compute@Edge (Rust)](https://github.com/JAR33/hcaptcha-fastly-compute)
 
 
 ## Native Integrations: CMS platforms
@@ -266,8 +286,17 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 ## Mobile apps
 
+### iOS
+
+[iOS Native SDK](https://github.com/hCaptcha/HCaptcha-ios-sdk)
+
 ### Android
-[Android example with source blog post](https://medium.com/@hCaptcha/how-to-use-hcaptcha-with-android-apps-bb546c610bc4)
+
+[Android Native SDK](https://github.com/hCaptcha/hcaptcha-android-sdk)
+
+### React Native
+
+[React Native integration](https://github.com/hCaptcha/react-native-hcaptcha)
 
 ### Flutter
 [Flutter example with source blog post](https://medium.com/@hCaptcha/implementing-hcaptcha-in-your-flutter-app-13ea6ddca71b)
