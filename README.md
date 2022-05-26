@@ -18,7 +18,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [ReactJS](#reactjs)
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Vue JS](#vue-js)
-    + [SoildJS](#soildjs)
+    + [SolidJS](#soildjs)
 - [Backend](#backend)
   * [AdonisJS middleware](#adonisjs-middleware)
   * [Cloudflare Worker siteverify](#cloudflare-worker-siteverify)
@@ -105,7 +105,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 #### Vue JS
 [hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
-#### SoildJS
+#### SolidJS
 [hCaptcha Component Library for Solid](https://github.com/Vexcited/solid-hcaptcha)
 
 ## Backend
