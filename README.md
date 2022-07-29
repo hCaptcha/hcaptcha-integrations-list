@@ -156,7 +156,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 [PyPI](https://pypi.org/project/Flask-hCaptcha/)
 
 ### Ruby/Rails
-[RubyGems](https://rubygems.org/gems/hcaptcha/versions/7.1.0)  
+[RubyGems](https://rubygems.org/gems/hcaptcha)  
 [Source](https://github.com/Nexus-Mods/hcaptcha)
 
 ### Rust
