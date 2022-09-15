@@ -12,7 +12,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 - [Frontend](#frontend)
   * [JavaScript](#javascript)
-    + [Angular JS](#angular-js)
+    + [Angular](#angular)
     + [Ember.js](#emberjs)
     + [Plain JS reference](#plain-js-reference)
     + [ReactJS](#reactjs)
@@ -86,7 +86,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 ### JavaScript
 
-#### Angular JS
+#### Angular
 [hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
 
 #### Ember.js
