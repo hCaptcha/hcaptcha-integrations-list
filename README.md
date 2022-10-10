@@ -31,6 +31,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Next.js API Routes](#nextjs-api-routes)
   * [node.js](#nodejs)
   * [Plain PHP](#plain-php)
+  * [Python: Django](#python-django)
   * [Python: Django + Crispy](#python-django--crispy)
   * [Python: Flask](#python-flask)
   * [Ruby/Rails](#rubyrails)
@@ -147,6 +148,10 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 ### Plain PHP
 [Full example blog with source](https://medium.com/@hCaptcha/using-hcaptcha-with-php-fc31884aa9ea)
+
+### Python: Django
+[Source](https://github.com/tiesjan/django-hcaptcha-field)  
+[PyPI](https://pypi.org/project/django-hcaptcha-field/)
 
 ### Python: Django + Crispy
 [Blog post with source](https://medium.com/python-in-plain-english/how-to-add-hcaptcha-to-your-django-crispy-form-and-be-more-privacy-conscious-273e7f39bbfd)
