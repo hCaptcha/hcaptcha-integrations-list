@@ -65,6 +65,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [WordPress](#wordpress)
     + [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
   * [XenForo](#xenforo-1)
+  * [Kentico Xperience](#kentico-xperience)
 - [Chat protection bots](#chat-protection-bots)
     + [Honk](#honk)
   * [Telegram](#telegram)
@@ -184,6 +185,10 @@ Starting from verison 1.8.23: [Docs](https://docs.mybb.com/1.8/administration/sp
 
 ### XenForo
 Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/1437264)
+
+### Kentico Xperience
+
+[hCaptcha Kentico Xperience Form Component](https://github.com/wiredviews/xperience-hcaptcha)
 
 ## Plugins
 
