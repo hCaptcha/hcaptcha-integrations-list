@@ -15,6 +15,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Angular](#angular)
     + [Ember.js](#emberjs)
     + [Plain JS reference](#plain-js-reference)
+    + [Preact](#reactjs)
     + [ReactJS](#reactjs)
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
     + [Vue JS](#vue-js)
@@ -99,6 +100,8 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 #### ReactJS
 [hCaptcha Component Library for ReactJS](https://github.com/hCaptcha/react-hcaptcha)
+
+Note: also supports Preact.
 
 #### Vanilla JS (use with Angular, Vue, etc)
 [Source](https://github.com/DSergiu/vanilla-hcaptcha)
