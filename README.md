@@ -142,6 +142,7 @@ Note: also supports Preact.
 [Package #1 source](https://github.com/tojorodialson/hc-laravel)
 [Package #2 source](https://github.com/Scyllaly/hcaptcha)
 [Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
+[Package #4 source](https://github.com/rvxlab/hcaptcha)
 
 ### Next.js API Routes
 [npm Package](https://www.npmjs.com/package/next-hcaptcha)  
