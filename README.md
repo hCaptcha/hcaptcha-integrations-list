@@ -139,9 +139,12 @@ Note: also supports Preact.
 ### Laravel
 [Full example blog with source](https://serversideup.net/laravel-hcaptcha-custom-validation-rule/)
 
-[Package #1 source](https://github.com/tojorodialson/hc-laravel)
-[Package #2 source](https://github.com/Scyllaly/hcaptcha)
-[Package #3 source](https://github.com/thinhbuzz/laravel-h-captcha)
+#### Packages
+
+- [codise/hclaravel](https://github.com/tojorodialson/hc-laravel)
+- [scyllaly/hcaptcha](https://github.com/Scyllaly/hcaptcha)
+- [buzz/laravel-h-captcha](https://github.com/thinhbuzz/laravel-h-captcha)
+- [rvxlab/hcaptcha](https://github.com/rvxlab/hcaptcha)
 
 ### Next.js API Routes
 [npm Package](https://www.npmjs.com/package/next-hcaptcha)  
