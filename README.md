@@ -27,6 +27,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Elixir](#elixir)
   * [Firebase App Check (hCaptcha as Custom Provider)](#firebase-app-check-hcaptcha-as-custom-provider)
   * [Go middleware](#go-middleware)
+  * [Go-hCaptcha](#go-hcaptcha)
   * [Java](#java)
   * [Laravel](#laravel)
   * [Next.js API Routes](#nextjs-api-routes)
