@@ -133,6 +133,10 @@ Note: also supports Preact.
 ### Go middleware
 [Source](https://github.com/kataras/hcaptcha)
 
+### Go-hCaptcha
+[Source](https://github.com/ross714/hcaptcha)  
+[Full example](https://github.com/ross714/hcaptcha/tree/main/examples/fiber)
+
 ### Java
 [Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
 
