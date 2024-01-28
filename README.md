@@ -30,6 +30,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Go-hCaptcha](#go-hcaptcha)
   * [Java](#java)
   * [Laravel](#laravel)
+  * [NestJS](#nestjs)
   * [Next.js API Routes](#nextjs-api-routes)
   * [node.js](#nodejs)
   * [Plain PHP](#plain-php)
@@ -150,6 +151,10 @@ Note: also supports Preact.
 - [scyllaly/hcaptcha](https://github.com/Scyllaly/hcaptcha)
 - [buzz/laravel-h-captcha](https://github.com/thinhbuzz/laravel-h-captcha)
 - [rvxlab/hcaptcha](https://github.com/rvxlab/hcaptcha)
+
+### NestJS
+[npm Package](https://www.npmjs.com/package/@gvrs/nestjs-hcaptcha)  
+[GitHub Repository](https://github.com/alexgavrusev/nestjs-hcaptcha)
 
 ### Next.js API Routes
 [npm Package](https://www.npmjs.com/package/next-hcaptcha)  
