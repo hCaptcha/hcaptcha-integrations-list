@@ -12,6 +12,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 - [Frontend](#frontend)
   * [JavaScript](#javascript)
+    + [All via WebComponents](#all-via-webcomponents)
     + [Angular](#angular)
     + [Ember.js](#emberjs)
     + [Plain JS reference](#plain-js-reference)
@@ -91,13 +92,20 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 ### JavaScript
 
+#### All via WebComponents
+[vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha)
+
 #### Angular
+See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) WebComponent, which supports Angular.
+
 [hCaptcha Component Library for Angular](https://github.com/leNicDev/ng-hcaptcha)
 
 #### Ember.js
 [hCaptcha Component Library for Ember.js](https://github.com/sinankeskin/ember-h-captcha)
 
 #### Plain JS reference
+See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) WebComponent.
+
 [Official docs](https://docs.hcaptcha.com/)
 
 #### ReactJS
@@ -105,11 +113,15 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 
 Note: also supports Preact.
 
+See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) WebComponent, which supports React/Preact.
+
 #### Vanilla JS (use with Angular, Vue, etc)
 [Source](https://github.com/DSergiu/vanilla-hcaptcha)
 [NPM](https://www.npmjs.com/package/vanilla-hcaptcha)
 
 #### Vue JS
+See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) WebComponent, which supports Vue 2/.
+
 [hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
 #### SolidJS
