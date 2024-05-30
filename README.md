@@ -47,6 +47,8 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
 - [Native Integrations: CMS platforms](#native-integrations-cms-platforms)
   * [MyBB](#mybb)
   * [XenForo](#xenforo)
+  * [Oracle Recruiting Cloud](#oracle-recruiting-cloud)
+
 - [Plugins](#plugins)
   * [Craft CMS](#craft-cms)
     + [Freeform Plugin](#freeform-plugin)
@@ -222,6 +224,10 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 ### Kentico Xperience
 
 [hCaptcha Kentico Xperience Form Component](https://github.com/wiredviews/xperience-hcaptcha)
+
+### Oracle Recruiting Cloud
+
+[Oracle Recruiting Cloud hCaptcha Feature](https://docs.oracle.com/en/cloud/saas/talent-management/24a/faimh/enable-hcaptcha.html)
 
 ## Plugins
 
