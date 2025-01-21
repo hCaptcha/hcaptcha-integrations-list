@@ -29,6 +29,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Firebase App Check (hCaptcha as Custom Provider)](#firebase-app-check-hcaptcha-as-custom-provider)
   * [Go middleware](#go-middleware)
   * [Go-hCaptcha](#go-hcaptcha)
+  * [Keycloak](#keycloak)
   * [Java](#java)
   * [Laravel](#laravel)
   * [NestJS](#nestjs)
@@ -152,6 +153,9 @@ See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) W
 ### Go-hCaptcha
 [Source](https://github.com/ross714/hcaptcha)  
 [Full example](https://github.com/ross714/hcaptcha/tree/main/examples/fiber)
+
+## Keycloak
+[Source](https://github.com/p08dev/keycloak-hcaptcha/)
 
 ### Java
 [Blog with source](https://golb.hplar.ch/2020/05/hcaptcha.html)
