@@ -72,6 +72,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Vanilla Forums](#vanilla-forums)
   * [WordPress](#wordpress)
     + [WordPress WPForms Plugin](#wordpress-wpforms-plugin)
+    + [WordPress Ninja Forms Plugin](#wordpress-ninja-forms-plugin)
   * [XenForo](#xenforo-1)
   * [Kentico Xperience](#kentico-xperience)
 - [Chat protection bots](#chat-protection-bots)
@@ -323,6 +324,9 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 #### WordPress WPForms Plugin
 [Native integration: instructions to enable](https://wpforms.com/docs/how-to-set-up-and-use-hcaptcha-in-wpforms/)
+
+#### WordPress Ninja Forms Plugin
+[Native integration: instructions to enable](https://ninjaforms.com/docs/hcaptcha/)
 
 ### XenForo
 
