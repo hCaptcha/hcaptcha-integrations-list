@@ -265,6 +265,10 @@ Starting from version 2.2: [Announcement](https://xenforo.com/community/posts/14
 
 [Plugin](https://magecomp.com/magento-2-hcaptcha.html)
 
+### Mautic
+
+[Plugin](https://github.com/FireMultimedia/mautic-multi-captcha-bundle/tree/main)
+
 ### MediaWiki
 
 [Plugin](https://www.mediawiki.org/wiki/Extension:ConfirmEdit#hCaptcha)
